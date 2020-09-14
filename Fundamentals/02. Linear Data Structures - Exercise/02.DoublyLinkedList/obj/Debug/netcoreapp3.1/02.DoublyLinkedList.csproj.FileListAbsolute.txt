@@ -1,0 +1,9 @@
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.deps.json
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.dll
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.pdb
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.csprojAssemblyReference.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.AssemblyInfoInputs.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.AssemblyInfo.cs
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.dll
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.pdb

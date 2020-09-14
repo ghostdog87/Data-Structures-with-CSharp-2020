@@ -1,0 +1,9 @@
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.deps.json
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.dll
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.pdb
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.csprojAssemblyReference.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfoInputs.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfo.cs
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.dll
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.pdb

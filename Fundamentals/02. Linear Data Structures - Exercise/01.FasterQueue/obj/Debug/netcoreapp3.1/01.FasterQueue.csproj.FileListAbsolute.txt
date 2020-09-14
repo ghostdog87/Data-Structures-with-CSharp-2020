@@ -1,0 +1,9 @@
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.deps.json
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.dll
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.pdb
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.csprojAssemblyReference.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfoInputs.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfo.cs
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.dll
+D:\Softuni\C# Data Structures 2020\Fundamentals\02. Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.pdb
