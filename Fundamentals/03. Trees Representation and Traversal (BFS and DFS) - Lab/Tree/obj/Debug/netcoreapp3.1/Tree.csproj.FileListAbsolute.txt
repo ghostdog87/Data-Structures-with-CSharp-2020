@@ -1,0 +1,13 @@
+D:\Softuni\C# Data Structures 2020\Fundamentals\03. Trees Representation and Traversal (BFS and DFS) - Lab\Tree\obj\Debug\netcoreapp3.1\Tree.AssemblyInfoInputs.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\03. Trees Representation and Traversal (BFS and DFS) - Lab\Tree\obj\Debug\netcoreapp3.1\Tree.AssemblyInfo.cs
+D:\Softuni\C# Data Structures 2020\Fundamentals\03. Trees Representation and Traversal (BFS and DFS) - Lab\Tree\obj\Debug\netcoreapp3.1\Tree.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\03. Trees Representation and Traversal (BFS and DFS) - Lab\Tree\bin\Debug\netcoreapp3.1\Tree.exe
+D:\Softuni\C# Data Structures 2020\Fundamentals\03. Trees Representation and Traversal (BFS and DFS) - Lab\Tree\bin\Debug\netcoreapp3.1\Tree.deps.json
+D:\Softuni\C# Data Structures 2020\Fundamentals\03. Trees Representation and Traversal (BFS and DFS) - Lab\Tree\bin\Debug\netcoreapp3.1\Tree.runtimeconfig.json
+D:\Softuni\C# Data Structures 2020\Fundamentals\03. Trees Representation and Traversal (BFS and DFS) - Lab\Tree\bin\Debug\netcoreapp3.1\Tree.runtimeconfig.dev.json
+D:\Softuni\C# Data Structures 2020\Fundamentals\03. Trees Representation and Traversal (BFS and DFS) - Lab\Tree\bin\Debug\netcoreapp3.1\Tree.dll
+D:\Softuni\C# Data Structures 2020\Fundamentals\03. Trees Representation and Traversal (BFS and DFS) - Lab\Tree\bin\Debug\netcoreapp3.1\Tree.pdb
+D:\Softuni\C# Data Structures 2020\Fundamentals\03. Trees Representation and Traversal (BFS and DFS) - Lab\Tree\obj\Debug\netcoreapp3.1\Tree.dll
+D:\Softuni\C# Data Structures 2020\Fundamentals\03. Trees Representation and Traversal (BFS and DFS) - Lab\Tree\obj\Debug\netcoreapp3.1\Tree.pdb
+D:\Softuni\C# Data Structures 2020\Fundamentals\03. Trees Representation and Traversal (BFS and DFS) - Lab\Tree\obj\Debug\netcoreapp3.1\Tree.genruntimeconfig.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\03. Trees Representation and Traversal (BFS and DFS) - Lab\Tree\obj\Debug\netcoreapp3.1\Tree.csprojAssemblyReference.cache
