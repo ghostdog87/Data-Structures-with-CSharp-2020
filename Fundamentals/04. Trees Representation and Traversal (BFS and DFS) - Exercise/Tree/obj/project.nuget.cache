@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tqGooDRx4K+BTQsYtNEkWIyBgYpVwmgP2qpi7bk90AeXCP4+w6pa281hPbD6qwc8HiluZXVOlSlmpTQkBFPmlA==",
+  "success": true,
+  "projectFilePath": "D:\\Softuni\\C# Data Structures 2020\\Fundamentals\\04. Trees Representation and Traversal (BFS and DFS) - Exercise\\Tree\\Tree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
