@@ -1,0 +1,9 @@
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\bin\Debug\netstandard2.0\01.BinaryTree.deps.json
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\bin\Debug\netstandard2.0\01.BinaryTree.dll
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\bin\Debug\netstandard2.0\01.BinaryTree.pdb
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.csprojAssemblyReference.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.AssemblyInfoInputs.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.AssemblyInfo.cs
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.dll
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.pdb

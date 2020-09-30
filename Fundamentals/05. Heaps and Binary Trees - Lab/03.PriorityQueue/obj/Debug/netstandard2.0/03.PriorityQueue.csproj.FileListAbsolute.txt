@@ -1,0 +1,9 @@
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\03.PriorityQueue\bin\Debug\netstandard2.0\03.PriorityQueue.deps.json
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\03.PriorityQueue\bin\Debug\netstandard2.0\03.PriorityQueue.dll
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\03.PriorityQueue\bin\Debug\netstandard2.0\03.PriorityQueue.pdb
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.csprojAssemblyReference.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.AssemblyInfoInputs.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.AssemblyInfo.cs
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.dll
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.pdb

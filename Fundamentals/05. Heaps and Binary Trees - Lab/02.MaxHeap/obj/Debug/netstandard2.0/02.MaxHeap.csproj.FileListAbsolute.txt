@@ -1,0 +1,9 @@
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.deps.json
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.dll
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.pdb
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.csprojAssemblyReference.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.AssemblyInfoInputs.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.AssemblyInfo.cs
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.dll
+D:\Softuni\C# Data Structures 2020\Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.pdb
